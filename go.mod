@@ -1,3 +1,3 @@
-module gihub.com/hnnngn/vectphi
+module github.com/hnnngn/vectphi
 
 go 1.19
